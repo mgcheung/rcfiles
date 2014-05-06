@@ -109,3 +109,4 @@ map g$ :tablast<CR>
 map Q :tabdo q<CR>
 map Q! :tabdo q!<CR>
 set bg=dark
+highlight Normal guifg=white guibg=black
